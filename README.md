@@ -5,9 +5,9 @@ I am a Computer Science and Engineering (CSE) student with a passion for coding 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://https://www.linkedin.com/in/amank1412
-- [X](https://https://x.com/Amank1412?t=e5qFluXYLV89mXnnrymquQ&s=09
+[LinkedIn](https://www.linkedin.com/in/amank1412)
+[X](https://x.com/Amank1412)
 
 
 
-*Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!*
+Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!
