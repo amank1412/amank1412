@@ -5,11 +5,11 @@ I am a Computer Science and Engineering (CSE) student with a passion for coding 
 
 ## 📈 Competitive Programming Achievements
 
-| Platform        | Rating |
-|-----------------|--------|
-| **LeetCode**    |   |
-| **CodeChef**    | 1-Star (734) |
-| **Codeforces**  | 915   |
+| Platform        | Rating  |
+|-----------------|---------|
+| **LeetCode**    |         |
+| **CodeChef**    | ⭐ (734)|
+| **Codeforces**  | 915     |
 
 ## 📫 Connect with Me
 
