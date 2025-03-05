@@ -5,8 +5,8 @@ I am a Computer Science and Engineering (CSE) student with a passion for coding 
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/amank1412)
-[X](https://x.com/Amank1412)
+- [LinkedIn](https://www.linkedin.com/in/amank1412)
+- [X](https://x.com/Amank1412)
 
 
 
